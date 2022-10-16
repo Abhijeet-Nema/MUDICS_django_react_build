@@ -1,0 +1,41 @@
+{
+    "genre": "happy",
+    "genre_id": 1,
+    "songs": [
+        {
+            "name": "Love you zindagi",
+            "path": "/templates/music/happy/Love_You_Zindagi.mp3",
+            "cover": "/templates/covers/Love_You_Zindagi.jpg",
+            "artists": "Arijit Singh, Pritam",
+            "duration": 4.11
+        },
+        {
+            "name": "Matargashti",
+            "path": "/templates/music/happy/MATARGASHTI.mp3",
+            "cover": "/templates/covers/MATARGASHTI.jpg",
+            "artists": "Mohit Chauhan",
+            "duration": 4.25
+        },
+        {
+            "name": "Nazm Nazm",
+            "path": "/templates/music/happy/Nazm_Nazm.mp3",
+            "cover": "/templates/covers/Nazm_Nazm.jpg",
+            "artists": "Arko",
+            "duration": 3.55
+        },
+        {
+            "name": "Ude Dil Befikre",
+            "path": "/templates/music/happy/Ude_Dil_Befikre.mp3",
+            "cover": "/templates/covers/Ude_Dil_Befikre.jpg",
+            "artists": "Arko",
+            "duration": 3.47
+        },
+        {
+            "name": "Kesariya (Bhramastra)",
+            "path": "/templates/music/happy/kesariya.mp3",
+            "cover": "/templates/covers/kesariya.jpg",
+            "artists": "Amit Trivedi",
+            "duration": 4.28
+        }
+    ]
+}

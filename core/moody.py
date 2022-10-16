@@ -9,8 +9,8 @@ from keras_preprocessing.image import img_to_array
 from time import sleep
 import statistics as st
 from mudics.settings import BASE_DIR
-face_classifier = cv2.CascadeClassifier(r"C:\Users\miaab\mudics\core\haarcascade_frontalface_default.xml")
-classifier =load_model(r"C:\Users\miaab\mudics\core\h.h5")
+face_classifier = cv2.CascadeClassifier(r"C:\Mudic\core\haarcascade_frontalface_default.xml")
+classifier =load_model(r"C:\Mudic\core\h.h5")
 
 class expression:
     def detection(self):

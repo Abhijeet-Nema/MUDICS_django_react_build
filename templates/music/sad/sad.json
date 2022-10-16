@@ -1,0 +1,41 @@
+{
+    "genre": "sad",
+    "genre_id": 2,
+    "songs": [
+        {
+            "name": "Aaoge Jab Tum",
+            "path": "/templates/music/sad/Aaoge_Jab_Tum.mp3",
+            "cover": "/templates/covers/Aaoge_Jab_Tum.jpg",
+            "artists": "Rashid Khan",
+            "duration": 4.5
+        },
+        {
+            "name": "Jeena Jeena",
+            "path": "/templates/music/sad/Jeena_Jeena.mp3",
+            "cover": "/templates/covers/Jeena_Jeena.jpg",
+            "artists": "Atif Aslam",
+            "duration": 3.55
+        },
+        {
+            "name": "Kabira",
+            "path": "/templates/music/sad/Kabira.mp3",
+            "cover": "/templates/covers/Kabira.jpg",
+            "artists": "Arijit Singh",
+            "duration": 4.11
+        },
+        {
+            "name": "Abhi Mujh Mein Kahin",
+            "path": "/templates/music/sad/Abhi_Mujh_Mein_Kahin.mp3",
+            "cover": "/templates/covers/Abhi_Mujh_Mein_Kahin.jpg",
+            "artists": "Sonu Nigam",
+            "duration": 4.15
+        },
+        {
+            "name": "Sach Keh Raha",
+            "path": "/templates/music/sad/Sach_Keh_Raha.mp3",
+            "cover": "/templates/covers/Sach_Keh_Raha.jpg",
+            "artists": "B Praak",
+            "duration": 5.48
+        }
+    ]
+}

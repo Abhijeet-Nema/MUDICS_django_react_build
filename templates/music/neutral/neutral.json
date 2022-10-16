@@ -1,0 +1,41 @@
+{
+    "genre": "neutral",
+    "genre_id": 3,
+    "songs": [
+        {
+            "name": "Alag Aasmaan",
+            "path": "/templates/music/neutral/ALAG_AASMAAN.mp3",
+            "cover": "/templates/covers/ALAG_AASMAAN.jpg",
+            "artists": "Anuv Jain",
+            "duration": 3.45
+        },
+        {
+            "name": "Ilahi",
+            "path": "/templates/music/neutral/Ilahi.mp3",
+            "cover": "/templates/covers/Ilahi.jpg",
+            "artists": "Arijit Singh",
+            "duration": 3.23
+        },
+        {
+            "name": "Kasoor Acoustic",
+            "path": "/templates/music/neutral/Kasoor_Acoustic.mp3",
+            "cover": "/templates/covers/Kasoor_Acoustic.jpg",
+            "artists": "Prateek Kuhad",
+            "duration": 3.33
+        },
+        {
+            "name": "Monta Re",
+            "path": "/templates/music/neutral/MONTA_RE.mp3",
+            "cover": "/templates/covers/MONTA_RE.jpg",
+            "artists": "Amitabh Bhattacharya, Swanand Kirkire",
+            "duration": 3.55
+        },
+        {
+            "name": "Phir Se Ud Chala",
+            "path": "/templates/music/neutral/Phir_Se_Ud_Chala.mp3",
+            "cover": "/templates/covers/Phir_Se_Ud_Chala.jpg",
+            "artists": "Mohit Chauhan",
+            "duration": 3.32
+        }
+    ]
+}
